@@ -26,7 +26,7 @@ public class Example1 {
                 System.out.println("Sunday");
                 break;
             default:
-                System.out.println("Invalid");
+                System.out.println("Invalid day");
 
         }
     }
